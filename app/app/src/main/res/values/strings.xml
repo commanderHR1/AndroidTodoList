@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TodoList</string>
+    <string name="txtTitleText">To-Do List App</string>
+    <string name="txtInputHint">Add an Item</string>
+    <string name="txtTodoListText">My To-Do List</string>
+    <string name="btnAddText">Add</string>
+    <string name="btnDeleteText">Delete</string>
+    <string name="btnClearText">Clear</string>
 </resources>
